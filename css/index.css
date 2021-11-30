@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #d14635;
+	text-align: center;
+}
+
+header h1{
+	color: white;
+}
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid #483a94;
+}
+
